@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - Entry point to the application
  *
  * Return: Should be 0 to show success
