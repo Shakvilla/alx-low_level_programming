@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - Prints _putchar string in stdout
- * 
+ *
  * Return: Success(0)
  */
 int main(void)
