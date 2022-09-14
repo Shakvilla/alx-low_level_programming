@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Prints fibbonnacci series 
+ * main - Prints fibbonnacci series
  *
  * Return: Always 0 (Success)
  */
