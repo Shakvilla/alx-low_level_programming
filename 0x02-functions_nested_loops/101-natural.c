@@ -7,11 +7,8 @@
  */
 int main(void)
 {
-	int a = 1;
-
-	int b = 0;
-
-	while (a < 1024)
+	int a, b;
+	for (a = 1; a < 1024; a++)
 	{
 		if ((a % 3) == 0 || (a % 5) == 0)
 		{
