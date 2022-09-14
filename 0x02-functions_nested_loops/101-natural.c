@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - Prints natural numbers below 1024
  * and multitples of 3 or 5
