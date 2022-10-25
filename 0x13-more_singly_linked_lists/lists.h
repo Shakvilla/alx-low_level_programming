@@ -4,12 +4,13 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-/*
+/**
  * struct listint_s - singly liked list
  * @n: integer
  * @next: points to the next one
  *
- * Description: a singly linked list node structure
+ * Description: singly linked list node structure
+ * for alx project
  */
 
 typedef struct listint_s
