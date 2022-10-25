@@ -3,10 +3,9 @@
 /**
  * listint_len - Calculates the length of a list
  * @h: Pointer to the begining of the list
- * Return: Returns the of nodes
+ * Return: Returns the amount of nodes
  */
-
-size_t listint_len(count listint_t *h)
+size_t listint_len(const listint_t *h)
 {
 	unsigned int count;
 
